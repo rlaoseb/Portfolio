@@ -9,3 +9,7 @@ https://github.com/jbehneKSU/DiscordBot-Team1
 This a group project I help contribute to during my Master's Program at Kennesaw State University.
 This is an app for a doctor's office where patients are able to log in and set appointments.
 https://github.com/Oluwatomee/Healthtracker
+
+### Space Invaders
+Check out my version of the game Space Invaders.
+https://github.com/rlaoseb/Space-Invaders
