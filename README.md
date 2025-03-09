@@ -4,7 +4,7 @@ The files above showcase some simple projects I developed using an IDE.
 The links below showcase more advanced projects that I developed.
 
 ### Capstone Project
-I'm currently in my final semester at Kennesaw State University and this is the graduate project that I'm currently contributing to.
+This is my Kennesaw State University Capstone Project. 
 https://github.com/jbehneKSU/DiscordBot-Team1
 
 ### Health Tracker
@@ -15,3 +15,7 @@ https://github.com/Oluwatomee/Healthtracker
 ### Space Invaders
 Check out my version of the game Space Invaders.
 https://github.com/rlaoseb/Space-Invaders
+
+### Doodle Jump
+Check out my Javascript code for Doodle Jump.
+https://github.com/rlaoseb/Doodle-Jump
