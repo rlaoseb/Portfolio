@@ -17,5 +17,5 @@ Check out my version of the game Space Invaders.
 https://github.com/rlaoseb/Space-Invaders
 
 ### Doodle Jump
-Check out my Javascript code for Doodle Jump.
+Check out my JavaScript code for Doodle Jump.
 https://github.com/rlaoseb/Doodle-Jump
